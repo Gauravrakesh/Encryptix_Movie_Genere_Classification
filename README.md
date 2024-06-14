@@ -29,10 +29,10 @@ Test Data Set =  54200 rows and 3 columns
 ## Data Pre Processing  
 ##### Use of LancasterStemmer() 
 It is a most popular NLP Algorithm more agressive, reduce words to their stems by applying set of simple and highly efficient rules.
-##### Exaple  
-Running = Run
-Dogs = Dog
-Books = Book
+##### Example  
+Running = Run  
+Dogs = Dog  
+Books = Book  
 
 ##### removal of special character , non alphabatic values ,URL, Media file links and stopwords.
 #### Results obtain from different Model
