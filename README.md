@@ -1,8 +1,8 @@
 # Encryptix_Movie_Genere_Classification
 A Machine Learning Project
 ## Python Libraries Used  
-numpy
-pandas
+numpy  
+pandas  
 matplotlib
 seaborn
 string
