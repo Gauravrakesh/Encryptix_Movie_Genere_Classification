@@ -41,7 +41,7 @@ Books = Book
 #### Results obtain from different Model
 ### Support Vector Machine Classifier
 ###### Model_Score = 0.9034608378870674
-###### Accuracy_Score = 
+###### Accuracy_Score = 0.5674628792769528
 
 ### Hyperparameter Tuning Using Grid Search CV  
 param_grid = {'C' : [0.1, 1 ,10, 100], 'gamma' : [1,0.1,0.01,0.001], 'kernel' : ['rbf'] }  
