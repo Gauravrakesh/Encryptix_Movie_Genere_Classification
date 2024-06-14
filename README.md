@@ -40,7 +40,8 @@ Books = Book
 ##### removal of special character , non alphabatic values ,URL, Media file links and stopwords.
 #### Results obtain from different Model
 ### Support Vector Machine Classifier
-###### Accuracy =
+###### Model_Score = 0.9034608378870674
+###### Accuracy_Score = 
 
 ### Hyperparameter Tuning Using Grid Search CV  
 param_grid = {'C' : [0.1, 1 ,10, 100], 'gamma' : [1,0.1,0.01,0.001], 'kernel' : ['rbf'] }  
