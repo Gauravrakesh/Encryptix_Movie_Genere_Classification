@@ -9,6 +9,9 @@ string
 nltk  
 re  
 sklearn  
+# Data Acquisition  
+https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb  
+
 ## Machine Leaning Model Used  
 ### Support Vector Machine Classifier  
 ### MultiNomial Naive Bayes  
